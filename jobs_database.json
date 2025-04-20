@@ -1,0 +1,55 @@
+{
+    "c0e5b14a-9805-45fc-8bc4-85eb6e1703ab": {
+        "id": "c0e5b14a-9805-45fc-8bc4-85eb6e1703ab",
+        "title": "Software Engineer",
+        "company": "TechCorp",
+        "location": "Bangalore, India",
+        "description": "Developing robust applications using Python and Django",
+        "requirements": [
+            "Python",
+            "Django",
+            "REST API",
+            "PostgreSQL"
+        ],
+        "salary": "15-20 LPA",
+        "posted_date": "2025-04-11",
+        "deadline": "2025-05-11",
+        "type": "Full-time",
+        "category": "IT"
+    },
+    "0300749f-733e-44bf-a63f-269d72b06450": {
+        "id": "0300749f-733e-44bf-a63f-269d72b06450",
+        "title": "Marketing Manager",
+        "company": "Global Retail",
+        "location": "Mumbai, India",
+        "description": "Leading marketing campaigns for retail products",
+        "requirements": [
+            "5+ years experience",
+            "Digital Marketing",
+            "Team Management"
+        ],
+        "salary": "18-25 LPA",
+        "posted_date": "2025-04-11",
+        "deadline": "2025-04-26",
+        "type": "Full-time",
+        "category": "Marketing"
+    },
+    "37faf6d9-9acd-4cfd-a243-a315c05f9028": {
+        "id": "37faf6d9-9acd-4cfd-a243-a315c05f9028",
+        "title": "Data Scientist",
+        "company": "Analytics Inc",
+        "location": "Remote",
+        "description": "Analyzing large datasets to extract insights",
+        "requirements": [
+            "Python",
+            "Machine Learning",
+            "Statistics",
+            "SQL"
+        ],
+        "salary": "20-30 LPA",
+        "posted_date": "2025-04-11",
+        "deadline": "2025-05-01",
+        "type": "Remote",
+        "category": "Data Science"
+    }
+}
